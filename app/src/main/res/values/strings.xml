@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PetCol</string>
+
+    <!-- Configuracion facebook -->
+    <string name="facebook_app_id">353254488903329</string> <string name="fb_login_protocol_scheme">fb353254488903329</string>
+
+    <!-- buttons login -->
+    <string name="button_facebook">Ingresar con Facebook</string>
+
+</resources>

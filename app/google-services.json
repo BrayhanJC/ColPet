@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "637515087030",
+    "firebase_url": "https://colpet-2c3ca.firebaseio.com",
+    "project_id": "colpet-2c3ca",
+    "storage_bucket": "colpet-2c3ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637515087030:android:0f464690b1d71d75607a17",
+        "android_client_info": {
+          "package_name": "com.uniquindio.colpet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637515087030-jfpm507tj5if39r5dc9sf5sndp44sup0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uniquindio.colpet",
+            "certificate_hash": "f76f4623e9049389487bd930c5fd1d083fedebd9"
+          }
+        },
+        {
+          "client_id": "637515087030-0e31n9dup1o6f8r5ub6s2oqjkd98un7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsGBPvxqx2_k_PQeayQh_VZEu4NWotmIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637515087030-0e31n9dup1o6f8r5ub6s2oqjkd98un7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
