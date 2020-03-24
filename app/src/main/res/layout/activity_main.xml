@@ -9,10 +9,10 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="232dp"
-        android:layout_height="119dp"
+        android:layout_width="276dp"
+        android:layout_height="117dp"
         android:layout_marginTop="96dp"
-        android:background="#0AFFFFFF"
+        android:background="#00FFFFFF"
         android:text="@string/app_name"
         android:textColor="#FFFFFF"
         android:textSize="82sp"

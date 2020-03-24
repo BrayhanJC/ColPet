@@ -59,10 +59,15 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
-
+    /***
+     * Funcion que permite dirigir al menu principal de la app
+     */
     public void goActivictyMain(){
         Intent intent = new Intent(this, MainActivity.class);
         intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP | Intent.FLAG_ACTIVITY_CLEAR_TASK | Intent.FLAG_ACTIVITY_NEW_TASK);
         startActivity(intent);
     }
+
+
+
 }
